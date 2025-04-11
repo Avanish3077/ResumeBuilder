@@ -1,0 +1,24 @@
+# 📝 Resume Maker
+
+A simple and user-friendly Resume Builder application built using **Java**. This tool allows users to create, preview, and export professional resumes with ease.
+
+## 💡 Features
+
+- Create a personalized resume with sections like:
+  - Personal Information
+  - Education
+  - Work Experience
+  - Skills
+  - Projects
+- Real-time preview of the resume
+- Export resume to PDF format (optional feature)
+- Clear and clean UI for ease of use
+
+## 🛠️ Tech Stack
+
+- **Language:** Java  
+- **UI Framework:** JavaFX  
+- **Database (Optional/Future Scope):** SQLite or File-based storage
+
+## 📂 Project Structure
+
