@@ -21,4 +21,5 @@ A simple and user-friendly Resume Builder application built using **Java**. This
 - **Database (Optional/Future Scope):** SQLite or File-based storage
 
 ## 📂 Project Structure
+ResumeMaker/ ├── src/ │ ├── main/ │ │ ├── java/ │ │ │ └── yourpackages/ │ │ │ ├── Main.java │ │ │ ├── ResumeBuilderController.java │ │ │ └── ... │ └── resources/ │ └── fxml/ │ └── layout.fxml ├── README.md └── ResumeMaker.iml
 
